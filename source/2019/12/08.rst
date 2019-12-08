@@ -12,7 +12,8 @@ Summary
 
 What I did
 -------------
-12월 08일 현재, xxzchain.core.System 까지의 Documentation이 완성되었음.
+- 12월 08일 현재, xxzchain.core.System 까지의 Documentation이 완성되었음.
+- logging system appended.(for ``System``  and ``Initializer``).  See :ref:`logging`
 
 
 Todo
@@ -20,14 +21,15 @@ Todo
 
 xxzchain
 ~~~~~~~~~
-xxzchain.core.Basis의 도큐멘테이션 작성과 더불어 튜토리얼의 진행이 필요함
+- xxzchain.core.Basis의 도큐멘테이션 작성과 더불어 튜토리얼의 진행이 필요함
+- SVD(entanglement entropy) and approx. unitary time evolution implementation needed.
 
 taxidata
 ~~~~~~~~~
-한양대에서 제공한 함수에 대한 이해와 빠른 서포트가 필요함.
+한양대에서 제공한 함수에 대한 이해와 빠른 서포트(data)가 필요함.
 
 master course
 ~~~~~~~~~~~~~~~
-* 양자역학 기말시험까지 2주
-* 양자역학 과제(Bessel function)
-* 고급통계물리 발표준비(Ising?)
+- 양자역학 기말시험까지 2주
+- 양자역학 과제(Bessel function)
+- 고급통계물리 발표준비(Ising?)
