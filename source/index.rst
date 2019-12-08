@@ -12,6 +12,7 @@ Welcome to blog's documentation!
 
    Sphinx
    ResearchNote
+   dairy
 
 Indices and tables
 ==================

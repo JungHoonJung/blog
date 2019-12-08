@@ -9,6 +9,8 @@ sample - ``test.py``
     :emphasize-lines: 4
     :linenos:
 
+.. _code:
+
 .. automodule:: test
     :members:
 
