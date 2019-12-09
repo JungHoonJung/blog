@@ -1,5 +1,11 @@
+.. _latest:
+
 2019.12.09
 ============
+
+.. contents:: Content :
+  :depth: 2
+  :local:
 
 
 Summary
@@ -7,6 +13,7 @@ Summary
 라이브러리 Documentation 작성 중 eigenvalue naming and rearrangement  problem 발견 후 수정 중(X,P). (Q,K,F,P) -> (N,K,P,X)
 로깅을 이용한 디버깅 활성화 중 K Initializer optimization 진행.
 
+------------------------------
 
 What I did
 -------------
@@ -26,7 +33,7 @@ Optimization of K Initializer
 nbsphinx
 ~~~~~~~~~~~~
 
-:ref:`Sphinx` is brilliant tool for documentation. Even though it provide great guide, a new tool have big problem which is hard to learn about it.
+Sphinx_ is brilliant tool for documentation. Even though it provide great guide, a new tool have big problem which is hard to learn about it.
 Especially, sphinx only recognize reStructuredtext(.rst) files for making html.
 
 In that meaning, the library nbsphinx_ is a good solution. `nbsphnix` is *Jupyter Notebook Tools for Sphinx*.
@@ -36,9 +43,10 @@ Thanks to `nbshpinx` , I can make page much more easier.
 
 
 
-
+.. _Sphinx: http://www.sphinx-doc.org/en/master/
 .. _nbsphinx: https://nbsphinx.readthedocs.io/en/latest/index.html
 
+------------------------------
 
 Todo
 -------
@@ -48,9 +56,39 @@ xxzchain
 - X, P initializer debugging and logging.
 - SVD(entanglement entropy) and approx. unitary time evolution implementation needed. (Stack 2)
 
+
+
+
 taxidata
 ~~~~~~~~~
 한양대에서 제공한 함수에 대한 이해와 빠른 서포트(data)가 필요함. (Stack 2)
+
+내일 (12.10) 한양대에서 권용성 씨 내방해 랩미팅 진행함. (오후 3시)
+
+
+
+
+lab
+~~~~~
+
+.. important::
+	 12월에 현호 컴퓨터 구매 진행해야함. (박진우 박사님 조언을 따라 스레드리퍼 X3970 으로 구매할 것.)
+
+        대략적인 스펙 :
+        
+          - CPU : 스레드리퍼 X3970
+
+          - RAM : 128(or more)GB RAM
+
+
+master course
+~~~~~~~~~~~~~~~
+- 양자역학 기말시험까지 1주
+- 양자역학 과제(Bessel function)
+- 고급통계물리 발표준비(Ising?)
+- 인우문 T.A. 과제 받을 것.
+
+
 
 for this weekend
 ~~~~~~~~~~~~~~~~~~

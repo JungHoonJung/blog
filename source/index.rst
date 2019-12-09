@@ -15,6 +15,9 @@ Welcome to blog's documentation!
    dairy
    nbtest
 
+
+Latest Note : :ref:`latest`
+
 Indices and tables
 ==================
 
