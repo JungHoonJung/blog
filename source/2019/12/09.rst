@@ -11,26 +11,48 @@ Summary
 What I did
 -------------
 
+.. _Kopt:
+
+
 Optimization of K Initializer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - library of xxzchain_ has several basis initializer when user want to see specific region of Hilbert space.
+  I saw there is useless double for loop in code, so I make it single. In that process, I felt the code of saving is not pythonic but C-style code,
+  I make it pythonic. See more detail at :ref:`optk`.
 
 .. _xxzchain: https://xxzchain.readthedocs.io/
+
+
+nbsphinx
+~~~~~~~~~~~~
+
+:ref:`Sphinx` is brilliant tool for documentation. Even though it provide great guide, a new tool have big problem which is hard to learn about it.
+Especially, sphinx only recognize reStructuredtext(.rst) files for making html.
+
+In that meaning, the library `nbsphinx_` is a good solution. `nbsphnix` is *Jupyter Notebook Tools for Sphinx*.
+Literally, `nbsphinx` helps me to make html source as `Jupyter notebook file format` (.ipynb).
+It is not only support Markdown, inline comment and latex syntax, but also ***code excution*** that I plan to try it.
+Thanks to `nbshpinx` , I can make page much more easier.
+
+
+
+
+.. _nbsphinx: https://nbsphinx.readthedocs.io/en/latest/index.html
+
 
 Todo
 -------
 
 xxzchain
 ~~~~~~~~~
-- xxzchain.core.Basis의 도큐멘테이션 작성과 더불어 튜토리얼의 진행이 필요함
-- SVD(entanglement entropy) and approx. unitary time evolution implementation needed.
+- X, P initializer debugging and logging.
+- SVD(entanglement entropy) and approx. unitary time evolution implementation needed. (Stack 2)
 
 taxidata
 ~~~~~~~~~
-한양대에서 제공한 함수에 대한 이해와 빠른 서포트(data)가 필요함.
+한양대에서 제공한 함수에 대한 이해와 빠른 서포트(data)가 필요함. (Stack 2)
 
-master course
-~~~~~~~~~~~~~~~
-- 양자역학 기말시험까지 2주
-- 양자역학 과제(Bessel function)
-- 고급통계물리 발표준비(Ising?)
+for this weekend
+~~~~~~~~~~~~~~~~~~
+
+- tutorials of `nbsphinx` .
