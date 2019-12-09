@@ -29,7 +29,7 @@ nbsphinx
 :ref:`Sphinx` is brilliant tool for documentation. Even though it provide great guide, a new tool have big problem which is hard to learn about it.
 Especially, sphinx only recognize reStructuredtext(.rst) files for making html.
 
-In that meaning, the library `nbsphinx_` is a good solution. `nbsphnix` is *Jupyter Notebook Tools for Sphinx*.
+In that meaning, the library ` nbsphinx_ ` is a good solution. `nbsphnix` is *Jupyter Notebook Tools for Sphinx*.
 Literally, `nbsphinx` helps me to make html source as `Jupyter notebook file format` (.ipynb).
 It is not only support Markdown, inline comment and latex syntax, but also ***code excution*** that I plan to try it.
 Thanks to `nbshpinx` , I can make page much more easier.
