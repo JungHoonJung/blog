@@ -1,0 +1,36 @@
+2019.12.09
+============
+
+
+Summary
+-----------
+라이브러리 Documentation 작성 중 eigenvalue naming and rearrangement  problem 발견 후 수정 중(X,P). (Q,K,F,P) -> (N,K,P,X)
+로깅을 이용한 디버깅 활성화 중 K Initializer optimization 진행.
+
+
+What I did
+-------------
+
+Optimization of K Initializer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- library of xxzchain_ has several basis initializer when user want to see specific region of Hilbert space.
+
+.. _xxzchain: https://xxzchain.readthedocs.io/
+
+Todo
+-------
+
+xxzchain
+~~~~~~~~~
+- xxzchain.core.Basis의 도큐멘테이션 작성과 더불어 튜토리얼의 진행이 필요함
+- SVD(entanglement entropy) and approx. unitary time evolution implementation needed.
+
+taxidata
+~~~~~~~~~
+한양대에서 제공한 함수에 대한 이해와 빠른 서포트(data)가 필요함.
+
+master course
+~~~~~~~~~~~~~~~
+- 양자역학 기말시험까지 2주
+- 양자역학 과제(Bessel function)
+- 고급통계물리 발표준비(Ising?)

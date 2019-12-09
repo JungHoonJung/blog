@@ -13,6 +13,7 @@ Welcome to blog's documentation!
    Sphinx
    ResearchNote
    dairy
+   nbtest
 
 Indices and tables
 ==================
