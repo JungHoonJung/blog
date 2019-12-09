@@ -25,9 +25,9 @@ copyright = '2019, Junghoon Jung'
 author = 'Junghoon Jung'
 
 # The short X.Y version
-version = '2019.12.08'
+version = '2019.12.09'
 # The full version, including alpha/beta/rc tags
-release = '12.08'
+release = '12.09'
 
 
 # -- General configuration ---------------------------------------------------
