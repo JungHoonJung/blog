@@ -16,7 +16,7 @@ Welcome to blog's documentation!
    nbtest
 
 
-Latest Note : :ref:`Recent`
+Most Recent Note : :doc:`2019/12/09`
 
 Indices and tables
 ==================
