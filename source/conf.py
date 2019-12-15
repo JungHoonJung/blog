@@ -131,7 +131,11 @@ latex_elements = {
 
     # Additional stuff for the LaTeX preamble.
     #
-    # 'preamble': '',
+    'preamble': "".join((
+    '\usepackage[utf8x]{inputenc}',
+    '\documentclass{article}',
+    '\usepackage{kotex}'
+    ))
 
     # Latex figure (float) alignment
     #
