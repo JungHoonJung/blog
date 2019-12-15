@@ -13,10 +13,11 @@ Welcome to blog's documentation!
    Sphinx
    ResearchNote
    dairy
+   study
    nbtest
 
 
-Most Recent Note : :doc:`2019/12/09`
+Most Recent Note : :doc:`2019/12/15`
 
 Indices and tables
 ==================
