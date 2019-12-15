@@ -6,3 +6,4 @@ Daily Summary and issue
 
   2019/12/08
   2019/12/09
+  2019/12/15
