@@ -6,6 +6,8 @@
 Welcome to blog's documentation!
 ================================
 
+Most Recent Note : :doc:`2019/12/15`
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -17,7 +19,7 @@ Welcome to blog's documentation!
    nbtest
 
 
-Most Recent Note : :doc:`2019/12/15`
+
 
 Indices and tables
 ==================
