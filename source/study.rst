@@ -1,8 +1,5 @@
-Study
-=============
-
 Master course study
----------------------
+====================
 
 Study summary for master course.
 
