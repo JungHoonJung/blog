@@ -6,7 +6,7 @@
 Welcome to blog's documentation!
 ================================
 
-Most Recent Note : :doc:`2019/12/15`
+Most Recent Note : :doc:`2019/12/30`
 
 .. toctree::
    :maxdepth: 2
